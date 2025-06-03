@@ -2,15 +2,28 @@
   <img
     src="https://raw.githubusercontent.com/anuj0456/pilottai/main/docs/assets/logo.svg"
     height="150"
-    style="margin: 0; padding: 0;"
   />
-  <h2 style="margin: 0; padding-bottom: 20px; font-weight: bold; color: #fff; font-size: 44px;">Pygig</h2>
+  
+# Pygig
 
+<p><em>Intelligent automation through advanced multi-agent systems</em></p>
+
+<p>
+  <a href="https://twitter.com/pilott_ai">
+      <img src="https://img.shields.io/twitter/follow/pilott_ai?style=social" />
+  </a>
+  <a href="https://www.linkedin.com/company/pilottai/">
+      <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=social&logo=linkedin" />
+  </a>
+</p>
   <p><em>Intelligent automation through advanced multi-agent systems</em></p>
   
   <p>
     <a href="https://twitter.com/pilott_ai">
         <img src="https://img.shields.io/twitter/follow/pilott_ai?style=social" />
+    </a>
+    <a href="https://discord.gg/pilottai">
+        <img src="https://img.shields.io/discord/12345?style=social&logo=discord" />
     </a>
     <a href="https://www.linkedin.com/company/pilottai/">
         <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=social&logo=linkedin" />
