@@ -1,10 +1,11 @@
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/anuj0456/pilottai/main/docs/assets/logo.svg"
-    height="90"
+    height="150"
+    style="margin: 0; padding: 0;"
   />
-  
-  <h2>Pygig</h2>
+  <h2 style="margin: 0; padding-bottom: 20px; font-weight: bold; color: #fff; font-size: 44px;">Pygig</h2>
+
   <p><em>Intelligent automation through advanced multi-agent systems</em></p>
   
   <p>
