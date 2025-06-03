@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/anuj0456/pilottai/main/docs/assets/logo.svg"
+    src="pygig_logo.svg"
     height="150"
   />
   
