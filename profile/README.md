@@ -1,22 +1,3 @@
-<!-- <div align="center">
-  <p align="center">
-  <img src="logo.svg" width="30%" style="margin-right: -35px; vertical-align: middle;" />
-  <span style="font-size: 80px; vertical-align: middle; margin-left: -35px;"><strong>PilottAI</strong></span>
-</p>
-
-  <p style="font-size: 20px; margin-top: -10px;">
-    <em>Intelligent automation through advanced multi-agent systems</em>
-  </p>
-
-  <p>
-    <a href="https://twitter.com/pilott_ai">
-      <img src="https://img.shields.io/twitter/follow/pilott_ai?style=social" />
-    </a>
-    <a href="https://www.linkedin.com/company/pilottai/">
-      <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=social&logo=linkedin" />
-    </a>
-  </p>
-</div> -->
 <div align="center">
 <img src="github.png" />
 
