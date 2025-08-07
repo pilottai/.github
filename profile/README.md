@@ -1,6 +1,19 @@
 <div align="center">
 <img src="github.png" />
 
+<p style="font-size: 20px; margin-top: -10px;">
+    <em>Intelligent automation through advanced multi-agent systems</em>
+  </p>
+
+  <p>
+    <a href="https://twitter.com/pilott_ai">
+      <img src="https://img.shields.io/twitter/follow/pilott_ai?style=social" />
+    </a>
+    <a href="https://www.linkedin.com/company/pilottai/">
+      <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=social&logo=linkedin" />
+    </a>
+  </p>
+
 </div>
 
 ---
